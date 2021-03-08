@@ -10,7 +10,7 @@ app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "pranav.chandran@gmail.com"
 app_license = "MIT"
-
+app_logo_url = "/assets/theme_1/images/theme_1.png"
 # Includes in <head>
 # ------------------
 
